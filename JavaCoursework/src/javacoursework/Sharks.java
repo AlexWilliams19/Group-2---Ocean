@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package javacoursework;
 
 /**
  *
  * @author brade
  */
-public class NewClass {
+public class Sharks extends Fish{
     
 }
